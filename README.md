@@ -27,7 +27,7 @@ index.html
     <p>Portfolio Website</p>
 
     <h2>Contact</h2>
-    <p>Email: yourmail@gmail.com</p>
+    <p>Email: tejaborukati@gmail.com</p>
 
 </body>
 </html>
