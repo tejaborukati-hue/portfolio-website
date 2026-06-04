@@ -68,7 +68,7 @@
 <section id="contact">
     <h2>Contact</h2>
     <p>Email: saitejaswi@example.com</p>
-    <p>GitHub: github.com/yourusername</p>
+    <p>GitHub: github.com/Sai Tejaswi</p>
 </section>
 
 <footer>
